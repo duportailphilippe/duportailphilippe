@@ -33,27 +33,14 @@ Les projets publiés ici se situent notamment à la rencontre de la comptabilit�
 </p>
 <strong>Vérifiez. Identifiez. Documentez.</strong>
 
-Extension Google Chrome développée par A3C pour faciliter l'identification, le contrôle et la documentation des partenaires économiques français et européens.
+<p>
 
-Elle permet notamment :
+Extension Chrome A3C destinée au contrôle et à la documentation des partenaires économiques français et européens.
 
-* ✅ le contrôle des numéros de TVA intracommunautaire via **VIES** ;
-* 🔎 la reconnaissance des **SIREN, SIRET, RCS** et de différents identifiants européens ;
-* 🇪🇺 l'identification d'entreprises françaises et européennes ;
-* 🚚 le contrôle ou la recherche d'identifiants **EORI** lorsque les sources le permettent ;
-* 📚 la consultation de différentes **sources publiques et officielles** ;
-* 🧾 la récupération d'informations juridiques et économiques disponibles ;
-* 📄 la génération d'une **preuve PDF de diligence** ;
-* 🕒 la conservation de l'historique des contrôles ;
-* 🔄 le suivi et le recontrôle des partenaires ;
-* 📊 certains contrôles en masse à partir de fichiers CSV ;
-* 🔗 la consultation de données complémentaires telles que **LEI / GLEIF** lorsqu'elles sont disponibles.
+**VIES • Identité entreprise • EORI • Sources publiques • PDF de diligence • Historique • Recontrôle**
 
-➡️ **[Découvrir A3C — Contrôle TVA UE](https://github.com/duportailphilippe/A3C-Controle-TVA-UE)**
-
-➡️ **[Télécharger la dernière version](https://github.com/duportailphilippe/A3C-Controle-TVA-UE/releases/latest)**
-
----
+➡️ **[Découvrir le projet et sa documentation](https://github.com/duportailphilippe/A3C-Controle-TVA-UE)**  
+⬇️ **[Télécharger la dernière version](https://github.com/duportailphilippe/A3C-Controle-TVA-UE/releases/latest)**
 
 ## 🎯 Des outils conçus à partir du terrain
 
