@@ -25,11 +25,12 @@ Les projets publiés ici se situent notamment à la rencontre de la comptabilit�
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/duportailphilippe/A3C-Controle-TVA-UE/main/a3c-controle-tva-ue-card.png"
-       alt="A3C — Contrôle TVA UE / VIES"
-       width="100%">
+  <a href="https://github.com/duportailphilippe/A3C-Controle-TVA-UE">
+    <img src="https://raw.githubusercontent.com/duportailphilippe/A3C-Controle-TVA-UE/main/a3c-controle-tva-ue-card.png"
+         alt="A3C — Contrôle TVA UE / VIES"
+         width="100%">
+  </a>
 </p>
-
 **Vérifiez. Identifiez. Documentez.**
 
 Extension Google Chrome développée par A3C pour faciliter l'identification, le contrôle et la documentation des partenaires économiques français et européens.
