@@ -23,7 +23,12 @@ Les projets publiés ici se situent notamment à la rencontre de la comptabilit�
 
 ## 🧰 Projets A3C
 
-### 🇪🇺 Contrôle TVA UE — VIES
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duportailphilippe/A3C-Controle-TVA-UE/main/a3c-controle-tva-ue-card.png"
+       alt="A3C — Contrôle TVA UE / VIES"
+       width="100%">
+</p>
 
 **Vérifiez. Identifiez. Documentez.**
 
