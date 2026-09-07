@@ -1,18 +1,11 @@
-<div align="center">
-
-# Philippe DUPORTAIL
-
-### Expert-Comptable • Commissaire aux Comptes
-
-**A3C — Dunkerque 🇫🇷**
-
-### Expertise comptable × technologie × données publiques
-
-*Des outils numériques conçus à partir des besoins réels des entreprises.*
-
-</div>
+<p align="center">
+  <img src="a3c-github-banner.png"
+       alt="Philippe DUPORTAIL | A3C — Expertise comptable, technologie et données publiques"
+       width="100%">
+</p>
 
 ---
+
 
 ## 👋 À propos
 
