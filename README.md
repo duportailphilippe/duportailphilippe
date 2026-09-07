@@ -31,7 +31,7 @@ Les projets publiés ici se situent notamment à la rencontre de la comptabilit�
          width="100%">
   </a>
 </p>
-**Vérifiez. Identifiez. Documentez.**
+<strong>Vérifiez. Identifiez. Documentez.</strong>
 
 Extension Google Chrome développée par A3C pour faciliter l'identification, le contrôle et la documentation des partenaires économiques français et européens.
 
