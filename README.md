@@ -42,6 +42,7 @@ Extension Chrome A3C destinée au contrôle et à la documentation des partenair
 ➡️ **[Découvrir le projet et sa documentation](https://github.com/duportailphilippe/A3C-Controle-TVA-UE)**  
 ⬇️ **[Télécharger la dernière version](https://github.com/duportailphilippe/A3C-Controle-TVA-UE/releases/latest)**
 
+[![Téléchargements](https://img.shields.io/github/downloads/duportailphilippe/A3C-Controle-TVA-UE/total?label=T%C3%A9l%C3%A9chargements&style=flat-square)](https://github.com/duportailphilippe/A3C-Controle-TVA-UE/releases/latest)
 ## 🎯 Des outils conçus à partir du terrain
 
 Les projets A3C ne partent pas d'une technologie à laquelle il faudrait trouver une utilisation.
