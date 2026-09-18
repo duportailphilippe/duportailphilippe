@@ -109,7 +109,7 @@ Certains projets peuvent rester expérimentaux avant leur publication.
 **Expertise comptable • Commissariat aux comptes**
 
 📍 Dunkerque — France
-🌐 [www.a3c.fr](https://www.a3c.fr/)
+🌐 [a3c.fr](https://a3c.fr/)
 💼 [LinkedIn — A3C](https://www.linkedin.com/company/a3c/)
 📝 [Blog de l'Expert-Comptable](https://lexpertcomptable.blogspot.com/)
 
